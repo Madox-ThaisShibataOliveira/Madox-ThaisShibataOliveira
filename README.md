@@ -10,7 +10,6 @@ Meu nome é Madox Shibata Oliveira - 20 anos
 - 💻 Interesse em ingressar na área de tecnologia em análise de dados e ingração de IA, além de banco de dados também.
 - 🔭 Atualmente atuando como freelancer em Design
 - 🤔 Estudando sobre as ferramentas essenciais na minha área desejada como Python, MySQL, PowerBI e Excel.
-- 📫 Contato: shibahoxis@gmail.com ou @Shibahoxis ou www.linkedin.com/in/thais-shibata-oliveira
 
 <div>
   <a href="https://msoportifolio.my.canva.site/">
