@@ -13,8 +13,8 @@ Meu nome é Madox Shibata Oliveira - 20 anos
 
 <div>
   <a href="https://msoportifolio.my.canva.site/">
-  <img height="150em" widght="200em" src="https://github-readme-stats.vercel.app/api?username=Madox-ThaisShibataOliveira&show_icons=true&theme=gruvbox"/>
-  <img height="150em" widght="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madox-ThaisShibataOliveira&layout=compact&theme=gruvbox"/>
+  <img height="150" widght="200" src="https://github-readme-stats.vercel.app/api?username=Madox-ThaisShibataOliveira&show_icons=true&theme=gruvbox"/>
+  <img height="150" widght="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madox-ThaisShibataOliveira&layout=compact&theme=gruvbox"/>
 </div>
 
 <div style="display": inline-block><br>
